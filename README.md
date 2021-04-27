@@ -40,4 +40,4 @@ Password: `AcUB#6N%U9AJT6ks` (change after boot!!!)
 If something isnt working or you need help you can write me a message on following platforms:
 
 - Discord: Renax#0187
-- Instagram: @renax.official
+- Instagram: [@renax.official](https://www.instagram.com/renax.official/ "@renax.official")
