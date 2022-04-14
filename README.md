@@ -1,4 +1,4 @@
-# SecureOS
+# SecureOS - OUTDATED
 
 ![](https://cdn.discordapp.com/attachments/825669056719355908/836550783066701824/SecureOS_Black.png)
 
